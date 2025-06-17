@@ -9,6 +9,7 @@ VirtualBox download: https://www.virtualbox.org/wiki/Downloads
 
 O código utilizado para efetuar a comparação é baseado no código-fonte apresentado pelo professor em um trabalho passado e encontra-se presente neste repositório. Para instalá-lo no ambiente CentOS virtualizado, utilize o seguinte comando no terminal:
 
-sudo yum install python3 python3-pip
+sudo yum install python3 python3-pip\
+
 pip3 install matplotlib psutil
 
