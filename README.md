@@ -2,7 +2,7 @@ Utilizando VirtualBox para comparar arquiteturas RISC-V e Von Neumann utilizando
 
 Este trabalho tem como objetivo comparar as arquiteturas de computadores Von Neumann e RISC-V e descrever os resultados coletados.
 
-A arquitetura RISC-V deverá ser emulada através de um simulador web, enquanto a arquitetura de Von Neumann é precisamente a arquitetura-base de todas as distros do Linux.
+A arquitetura RISC-V deverá ser emulada através de um simulador web, enquanto a arquitetura de Von Neumann é precisamente a arquitetura-base de todas as distros do Linux (de maneira coneceitual, considerando que a arquitetura não é uma ISA).
 
 Distro do linux utilizada: CentOS (https://www.centos.org/download/);
 VirtualBox download: https://www.virtualbox.org/wiki/Downloads
