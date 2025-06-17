@@ -13,3 +13,8 @@ sudo yum install python3 python3-pip\
 
 pip3 install matplotlib psutil
 
+Um detalhe importante: se estiver rodando o código fonte no windows, substitua a linha 122 por:
+
+f.write("Para f = 0.95 e p = 8: S ~ %.2f\n" % (1 / ((1 - 0.95) + (0.95 / 8))))
+
+
